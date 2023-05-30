@@ -1,0 +1,2 @@
+tabs: ["app/layout.js", "app/page.js"]
+terminals: ["yarn install && yarn dev"]
